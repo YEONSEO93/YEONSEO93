@@ -11,6 +11,7 @@
  ✌️ &emsp; I am driven by the challenge of solving problems and making the web a more delightful and functional space <br/><br/>
  ❤️ &emsp; I do Love exploring new technologies and programming languages to continually refine my craft and deliver cutting-edge solutions<br/><br/>
  📧 &emsp; Reach me anytime: yeooonseo@gmail.com<br/><br/>
+ 👩‍💻&emsp;Portfolio Website: https://yeonseo93.github.io/portfolio-website/
 </p>
 
 <br/>
